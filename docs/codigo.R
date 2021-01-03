@@ -44,6 +44,6 @@ saveWidget(mapa, "index.html", selfcontained = F, libdir = "lib")
 repo <-  repository()
 cred <- cred_token()
 add(repo, "*")
-status(repo)
-commit(repo, message = "actualización última")
+
+commit(repo, message = "actualización última 2")
 push(repo, credentials = cred)
