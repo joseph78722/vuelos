@@ -10,6 +10,7 @@ library(tidyverse)
 library(xml2)
 library(rvest)
 library(htmlwidgets)
+library(git2r)
 
 url = "https://opensky-network.org/api/states/all"
 datos <- GET(url)
@@ -39,3 +40,10 @@ mapa <- leaflet() %>%
 
 
 saveWidget(mapa, "index.html", selfcontained = F, libdir = "lib")
+
+repo <-  repository()
+cred <- cred_token()
+add(repo, "*")
+status(repo)
+commit(repo, message = "actualización última")
+push(repo, credentials = cred)
