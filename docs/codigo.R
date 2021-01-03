@@ -1,3 +1,6 @@
+# Tutorial de automatización de scripts
+# https://anderfernandez.com/automatizar-scripts-de-r-en-windows-y-mac/
+
 setwd("~/Vuelos2/docs")
 
 library(httr)
