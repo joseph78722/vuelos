@@ -14077,3 +14077,7 @@ The following objects are masked from 'package:httr':
 
     config, content
 
+[f19d0cb] 2021-01-04: actualización 15 minutos
+Error in push(repo, credentials = cred) : 
+  Error in 'git2r_push': Unable to authenticate with supplied credentials
+Ejecuci'on interrumpida
