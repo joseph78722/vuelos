@@ -7,4 +7,5 @@ add(repo, "*")
 
 commit(repo, message = "nuevo")
 cred <- cred_token()
-push(repo, credentials = cred)
+push(repo)
+

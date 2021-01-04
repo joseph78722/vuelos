@@ -57,3 +57,7 @@ Ejecuci'on interrumpida
 Error in push(repo, credentials = cred) : 
   Error in 'git2r_push': Unable to authenticate with supplied credentials
 Ejecuci'on interrumpida
+[80fd3c5] 2021-01-04: nuevo
+Error in push(repo, credentials = cred) : 
+  Error in 'git2r_push': Unable to authenticate with supplied credentials
+Ejecuci'on interrumpida
