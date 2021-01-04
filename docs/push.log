@@ -31,3 +31,11 @@ Ejecuci'on interrumpida
 Error in push(repo, credentials = cred) : 
   Error in 'git2r_push': Unable to authenticate with supplied credentials
 Ejecuci'on interrumpida
+Error in repository() : The 'path' is not in a git repository
+Ejecuci'on interrumpida
+Error in repository() : The 'path' is not in a git repository
+Ejecuci'on interrumpida
+Error in repository() : The 'path' is not in a git repository
+Ejecuci'on interrumpida
+Error in repository() : The 'path' is not in a git repository
+Ejecuci'on interrumpida
