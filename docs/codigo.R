@@ -35,7 +35,8 @@ mapa <- leaflet() %>%
   addTiles() %>%
   addCircles(lng = datos$longitude, lat = datos$latitude, color = "#1e3799", opacity = 0.3) %>% 
   addLegend("topright", colors = "#O3F", labels = "Monitoreo de vuelos") %>% 
-  addLegend("bottomright", colors = "#O3F", labels = "API:opensky-network.org -- Elaborado por: J. Romero")
+  addLegend("bottomright", colors = "#O3F", labels = "API:opensky-network.org -- Elaborado por: J. Romero") %>% 
+  addLegend("bottomleft", colors = "#O3F", labels = paste0("Actualizado: ", Sys.time()))
 
 
 saveWidget(mapa, "index.html", selfcontained = F, libdir = "lib")
