@@ -8,3 +8,6 @@ Ejecuci'on interrumpida
 Error in commit(repo, message = "nuevo") : 
   Error in 'git2r_commit': Nothing added to commit
 Ejecuci'on interrumpida
+Error in commit(repo, message = "nuevo") : 
+  Error in 'git2r_commit': Nothing added to commit
+Ejecuci'on interrumpida
