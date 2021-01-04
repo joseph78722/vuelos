@@ -1,5 +1,5 @@
 
-setwd("~/Vuelos2/docs")
+setwd("~/Vuelos2")
 library(git2r)
 
 repo <-  repository()
