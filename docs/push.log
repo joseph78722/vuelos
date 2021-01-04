@@ -11,3 +11,7 @@ Ejecuci'on interrumpida
 Error in commit(repo, message = "nuevo") : 
   Error in 'git2r_commit': Nothing added to commit
 Ejecuci'on interrumpida
+[25c6ab2] 2021-01-04: nuevo
+Error in push(repo, credentials = cred) : 
+  Error in 'git2r_push': Unable to authenticate with supplied credentials
+Ejecuci'on interrumpida
