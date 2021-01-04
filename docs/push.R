@@ -1,5 +1,5 @@
 
-setwd("~/Vuelos2")
+setwd("/Users/jose/Vuelos2")
 library(git2r)
 
 repo <-  repository()
