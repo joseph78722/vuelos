@@ -102,3 +102,4 @@ Error in add(repo, "*") :
   Error in 'git2r_index_add_all': failed to read file into stream: 
 Ejecuci'on interrumpida
 [5af2cc7] 2021-01-05: nuevo
+[bd038e3] 2021-01-05: nuevo
