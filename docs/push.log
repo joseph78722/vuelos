@@ -97,3 +97,7 @@ Ejecuci'on interrumpida
 [c8238df] 2021-01-05: nuevo
 [de1b53e] 2021-01-05: nuevo
 [17b15d3] 2021-01-05: nuevo
+[c713c39] 2021-01-05: nuevo
+Error in add(repo, "*") : 
+  Error in 'git2r_index_add_all': failed to read file into stream: 
+Ejecuci'on interrumpida
