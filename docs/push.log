@@ -79,3 +79,7 @@ Ejecuci'on interrumpida
 [385098e] 2021-01-04: nuevo
 [7d2b3dd] 2021-01-04: nuevo
 [b0429b9] 2021-01-04: nuevo
+[338bdbf] 2021-01-04: nuevo
+Error in push(repo, credentials = cred) : 
+  Error in 'git2r_push': failed to resolve address for github.com: nodename nor servname provided, or not known
+Ejecuci'on interrumpida
