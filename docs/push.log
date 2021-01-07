@@ -201,3 +201,6 @@ Ejecuci'on interrumpida
 [c1d0509] 2021-01-07: nuevo
 [dbac0b0] 2021-01-07: nuevo
 [cbc40c8] 2021-01-07: nuevo
+[662f124] 2021-01-07: nuevo
+Error in push(repo, credentials = cred) : ignoring SIGPIPE signal
+Ejecuci'on interrumpida
