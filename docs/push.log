@@ -164,3 +164,4 @@ Ejecuci'on interrumpida
 Error in push(repo, credentials = cred) : 
   Error in 'git2r_push': failed to resolve address for github.com: nodename nor servname provided, or not known
 Ejecuci'on interrumpida
+[8a52cbb] 2021-01-06: nuevo
